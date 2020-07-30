@@ -1,6 +1,6 @@
 
 Abstract :
 
-      In this Application we will develop a City Explore Planner. So we can plan our Trips before we step out . Which for supose when we wanted to go on a trip to any part of the country , world this APP comes in handy. As here we add the Trip name we would go ex: South India then, we sellect and add the City location by search ex: Mumbai (Mumbai Railways)  and  then we can sellect and add the places near the location that are  displayed  ex:Hotels,restaurants.. etc. Here the App screen will display the saved trips . 
+      In this Application we will develop a City Explore Planner. So we can plan our Trips before we step out . Which for supose when we wanted to go on a trip to any part of the country , world this APP comes in handy. As here we add the Trip name we would go ex: South India then, we sellect and add the City location by search ex: Mumbai (Mumbai Railways)  and  then we can sellect and add the places near the location that are  displayed  ex:Hotels,restaurants.. etc. and such we can add multiple trips . Here the App screen will display the saved trips . 
 
 
